@@ -6,6 +6,9 @@ dist/
 wheels/
 *.egg-info
 data/*
+presentation/*
 .env
 # Virtual environments
 .venv
+Phe*
+*.zip
