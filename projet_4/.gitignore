@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+data/*
+presentation/*
+.env
+.python-version
+README.md
+main.py
+!*.ipynb
+!uv.lock
+!pyproject.toml
+!processed/data_merge.csv
+# Virtual environments
+.venv
+
+Phe*
+*.zip
+Parti*
