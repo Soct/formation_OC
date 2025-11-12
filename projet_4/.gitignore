@@ -17,7 +17,7 @@ main.py
 !processed/data_merge.csv
 # Virtual environments
 .venv
-
+*.pptx
 Phe*
 *.zip
 Parti*
